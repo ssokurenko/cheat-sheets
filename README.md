@@ -1,2 +1,1 @@
-# cheat-sheets
-Web-development cheat-sheets collection
+# Web-development cheat-sheets collection
